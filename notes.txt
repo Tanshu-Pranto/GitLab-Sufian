@@ -1,0 +1,1 @@
+Git Staging area is useful because it helps us to select which changes will be included in the next commit.
